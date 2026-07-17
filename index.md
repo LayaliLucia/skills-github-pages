@@ -12,5 +12,4 @@ It takes the files in your repo (like this `index.md`) and publishes them online
 ## How This Page Works
 
 This `index.md` file is the homepage of my GitHub Pages site.  
-It introduces me, highlights my skills, and explains what GitHub Pages is all about.  
 
